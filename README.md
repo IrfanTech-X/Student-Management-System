@@ -1,4 +1,4 @@
-# Student-Management-System
+# Student-Record-Management-System
 Structure Programing Course Project
 
 ## Overview
