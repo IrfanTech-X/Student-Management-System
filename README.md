@@ -23,7 +23,7 @@ Update Student: Modify student details such as name, roll number, CGPA, or cours
 
 Exit Program: Terminate the program.
 
-##Installation & Usage
+## Installation & Usage
 
 Clone the Repository (if using Git):
 
