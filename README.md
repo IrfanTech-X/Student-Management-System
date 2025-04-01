@@ -27,7 +27,7 @@ Exit Program: Terminate the program.
 
 Clone the Repository (if using Git):
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/IrfanTech-X/Student-Management-System.git
 
 Compile the Program:
 
