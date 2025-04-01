@@ -1,11 +1,11 @@
 # Student-Management-System
 Structure Programing Course Project
 
-Overview
+##Overview
 
 This is a C-based Student Management System that allows users to store, search, update, and delete student records. It provides functionalities such as adding students, finding students by roll number or name, listing students by course, and updating their details.
 
-Features
+##Features
 
 Add Student: Enter student details including name, roll number, CGPA, and course IDs.
 
@@ -23,7 +23,7 @@ Update Student: Modify student details such as name, roll number, CGPA, or cours
 
 Exit Program: Terminate the program.
 
-Installation & Usage
+##Installation & Usage
 
 Clone the Repository (if using Git):
 
@@ -37,7 +37,7 @@ Run the Executable:
 
 ./student_management
 
-Follow the on-screen instructions to interact with the program.
+#Follow the on-screen instructions to interact with the program.
 
 Example Input/Output
 
@@ -67,22 +67,22 @@ Last Name: Doe
 CGPA: 3.75
 Enrolled Course IDs: 201, 202, 203, 204, 205
 
-Technologies Used
+##Technologies Used
 
 C Programming Language
 
 GCC Compiler
 
-Limitations
+##Limitations
 
 Currently, the maximum number of students is 500.
 
 The program does not support file storage, meaning data is lost after closing.
 
-License
+##License
 
 This project is open-source. Feel free to modify and distribute it.
 
-Author
+##Author
 
 Developed by Irfan Ferdous Siam
