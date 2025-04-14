@@ -79,7 +79,14 @@ Currently, the maximum number of students is 500.
 
 The program does not support file storage, meaning data is lost after closing.
 
+---
 
-## Author
+## 👨‍💻 Author
 
-Developed by Irfan Ferdous Siam
+**Name:** Irfan Ferdous Siam  
+**Role:** CSE Undergraduate Student, Green University of Bangladesh    
+**Email:** siamtalukdar3@gmail.com  
+**LinkedIn:** [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)   
+**GitHub:** [github.com/IrfanTech-X](https://github.com/IrfanTech-X) 
+
+> Passionate about programming, cybersecurity, and software engineering.  
