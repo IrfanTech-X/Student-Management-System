@@ -79,9 +79,6 @@ Currently, the maximum number of students is 500.
 
 The program does not support file storage, meaning data is lost after closing.
 
-## License
-
-This project is open-source. Feel free to modify and distribute it.
 
 ## Author
 
