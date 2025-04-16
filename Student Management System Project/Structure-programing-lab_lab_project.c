@@ -18,7 +18,7 @@ struct studentInfo
     int rollNumber;
     float CGPA;
     int courseId[10];
-} st[500];
+} st[200];
 
 // Function to add student details
 void addStudent()
